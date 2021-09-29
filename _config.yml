@@ -1,10 +1,10 @@
 # Site settings
-course_name: Veri Yapıları ve Algoritmaları
-course_description: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
+course_name: Sayısal Tasarım
+course_description: "Sayısal tasarım konuları öğrenilemektedir."
 course_semester: "Güz 2021"
 
 baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
-url: "https://veri-yapilari-ve-algoritmalar.github.io/" # the base hostname & protocol for your site
+url: "https://sayisal-tasarim.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
