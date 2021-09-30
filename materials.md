@@ -8,14 +8,12 @@ permalink: /materyaller/
 
 ## Kitap
 
-Veri Yapıları ve Algoritmalar
+Digital Design and Computer Architecture
 
-Bilgisayar Mühendisliği ve Yazılım Mühendisliğinde
-
-Toros Rifat ÇÖLKESEN (Ph.D)
+David Money Harris and Sarah L. Harris
 
 ## Ek Ders Materyalleri
 
-http://www.tutorialspoint.com/data_structures_algorithms/index.htm
+https://circuitverse.org/simulator
 
 
