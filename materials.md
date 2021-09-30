@@ -4,7 +4,7 @@ title: Materyaller
 permalink: /materyaller/
 ---
 
-{% include image.html url="/_images/veriypilarikitap.jpg" width=175 align="right" %}
+{% include image.html url="/_images/digitaldesign.jpg" width=175 align="right" %}
 
 ## Kitap
 
